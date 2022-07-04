@@ -46,7 +46,7 @@
     "babel-eslint": "^10.1.0",
     "babel-jest": "^27.0.6",
     "babel-loader": "^8.2.2",
-    "cypress": "^8.3.0",
+    "cypress": "^10.3.0",
     "eslint": "^8.4.1",
     "eslint-config-airbnb": "^19.0.2",
     "eslint-config-airbnb-typescript": "^16.1.0",
